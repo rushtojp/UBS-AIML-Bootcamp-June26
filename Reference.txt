@@ -1,1 +1,3 @@
+Cluade finance prompts library
 
+https://github.com/devfinprojects/awesome-claude-finance-prompts
