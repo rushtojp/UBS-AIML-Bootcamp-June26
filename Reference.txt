@@ -1,3 +1,7 @@
 Cluade finance prompts library
 
 https://github.com/rushtojp/awesome-claude-finance-prompts
+
+Copilot studio labs
+
+https://microsoft.github.io/mcs-labs/labs/
