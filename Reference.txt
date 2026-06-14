@@ -13,3 +13,7 @@ https://microsoft.github.io/agent-academy/recruit/
 Agent creation - Project2
 
 https://microsoft.github.io/agent-academy/operative/
+
+copilot centre of excellence topics
+
+https://github.com/topics/copilot-studio
