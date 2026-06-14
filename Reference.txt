@@ -5,3 +5,11 @@ https://github.com/rushtojp/awesome-claude-finance-prompts
 Copilot studio labs
 
 https://microsoft.github.io/mcs-labs/labs/
+
+Agent creation - Project1
+
+https://microsoft.github.io/agent-academy/recruit/
+
+Agent creation - Project2
+
+https://microsoft.github.io/agent-academy/operative/
