@@ -20,7 +20,7 @@ https://github.com/topics/copilot-studio
 
 AI-for-Beginners 
 
-https://github.com/rushtojp/ML-For-Beginners
+https://github.com/rushtojp/AI-For-Beginners
 
 ML-for-Beginners
 
