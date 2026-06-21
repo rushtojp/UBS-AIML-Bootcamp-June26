@@ -30,6 +30,10 @@ Achievement codes
 
 https://learn.microsoft.com/en-us/collections/6wpf7tdggkn5g
 
+python essentials course
+
+https://github.com/rushtojp/python-foundations-3-weeks
+
 https://learn.microsoft.com/en-us/users/me/achievements?source=learn&redeem=RP3L9J
 
 https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-copilot-business-chat/?source=learn
