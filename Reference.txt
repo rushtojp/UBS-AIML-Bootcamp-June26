@@ -51,3 +51,7 @@ https://adoption.microsoft.com/en-us/scenario-library/financial-services/
 introducing the finllm dashboard
 
 https://huggingface.co/blog/leaderboard-finbench
+
+Databricks Solutions Accelarators
+
+https://www.databricks.com/blog/category/engineering/solution-accelerators?categories=solution-accelerators
