@@ -55,3 +55,7 @@ https://huggingface.co/blog/leaderboard-finbench
 Databricks Solutions Accelarators
 
 https://www.databricks.com/blog/category/engineering/solution-accelerators?categories=solution-accelerators
+
+Solution accelarators - link2 
+
+https://www.databricks.com/solutions/accelerators?industry=Financial%20Services
