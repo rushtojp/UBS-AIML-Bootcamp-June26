@@ -1,3 +1,6 @@
+Microsoft Standard Post Event Survey
+https://www.metricsthatmatter.com/url/u.aspx?4BF4C6DEC238209586
+
 Cluade finance prompts library
 
 https://github.com/rushtojp/awesome-claude-finance-prompts
