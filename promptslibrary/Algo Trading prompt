@@ -1,0 +1,100 @@
+📌 Prompt for Report Generation
+"Create a detailed research report on algorithmic trading (algo trading). The report should cover the following aspects in depth:
+
+Introduction
+
+Definition of algorithmic trading
+
+Purpose and importance in modern financial markets
+
+System Architecture
+
+How algo trading systems work
+
+Generations of computers involved (from early mainframes to modern AI-driven systems)
+
+Technologies used (cloud computing, GPUs, low-latency networks)
+
+Software platforms and programming languages (MetaTrader, QuantConnect, Python, C++)
+
+Algorithm Flow
+
+Input (market data feeds)
+
+Signal generation (rules, indicators, ML models)
+
+Risk management checks (stop-loss, leverage, position sizing)
+
+Execution (broker APIs, co-location servers)
+
+Feedback loop and continuous monitoring
+
+Evolution Phases
+
+Rule-based trading in the 1980s–1990s
+
+High-frequency trading in the 2000s
+
+AI/ML-driven strategies in the 2010s
+
+Democratization and retail algo trading in the 2020s
+
+Real-Life Cases
+
+Hedge funds (Renaissance Technologies, Citadel)
+
+Investment banks (Goldman Sachs, Morgan Stanley)
+
+Retail traders using APIs and bots
+
+Positive Aspects
+
+Speed and efficiency
+
+Removal of emotional bias
+
+Scalability and consistency
+
+Ability to exploit micro-market inefficiencies
+
+Negative Aspects
+
+System failures and flash crashes (e.g., 2010 US market crash)
+
+Overfitting in backtests
+
+Regulatory concerns and ethical debates
+
+Dependence on infrastructure and coding quality
+
+Reliability
+
+Strengths in stable environments
+
+Weaknesses during extreme volatility
+
+Importance of risk management
+
+Brains Behind the Trade
+
+Quants (mathematicians, statisticians, computer scientists)
+
+Traders defining strategies
+
+Developers coding systems
+
+Risk managers ensuring compliance
+
+Practical Example
+
+Simulate a scenario of buying and selling stocks using an algorithm
+
+Show how profits are generated step by step
+
+Conclusion
+
+Summarize the role of algo trading in shaping modern markets
+
+Balance between opportunities and risks
+
+Future outlook (AI-driven predictive trading, blockchain integration)"
